@@ -1,4 +1,4 @@
-humhub-modules-examples
+humhub-embedded-media
 =======================
 
-Some module examples 
+HumHub Module for HTML5 Video.

@@ -3,7 +3,7 @@
 /**
  * MainController shows the example page
  *
- * @author luke
+ * @author David Findlay <davidjwfindlay@gmail.com>
  */
 class MainController extends Controller
 {

@@ -1,0 +1,12 @@
+{
+    "id": "embeddedmedia",
+    "name": "Embedded Media",
+    "description": "Module to allow HTML5 Video posts",
+    "keywords": [
+        "core"
+    ],
+    "version": "0.2",
+    "humhub": {
+        "minVersion": "0.20"
+    }
+}
