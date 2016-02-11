@@ -68,7 +68,7 @@ class EmbeddedMediaController extends \humhub\modules\content\components\Content
         }
 
         $files = array();
-        foreach (UploadedEmbeddedMedia::getInstancesByName('files') as $cFile) {
+        foreach (UploadedFile::getInstancesByName('files') as $cFile) {
             $files[] = $this->handleFileUpload($cFile, $object);
         }
 
